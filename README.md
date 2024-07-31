@@ -1,1 +1,1 @@
-Pirmas projektas apie investavimą.
+Project about investing using agressive strategies, portifolio analysis.
